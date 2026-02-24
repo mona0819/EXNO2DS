@@ -160,7 +160,6 @@ max      6.000000  512.329200
 
 Missing values handled successfully.
 ```
-```
 <img width="616" height="525" alt="image" src="https://github.com/user-attachments/assets/a1db5046-f5f5-4671-956d-98af2f925826" />
 <img width="627" height="522" alt="image" src="https://github.com/user-attachments/assets/68a87994-e2c4-4f64-816a-84663b40fa5e" />
 <img width="675" height="510" alt="image" src="https://github.com/user-attachments/assets/d6d86ba0-b6ef-43ac-8050-d41104fb94d5" />
@@ -169,7 +168,7 @@ Missing values handled successfully.
 <img width="752" height="530" alt="image" src="https://github.com/user-attachments/assets/669934c4-22e1-4a24-bfe5-6c9d8710db16" />
 <img width="745" height="542" alt="image" src="https://github.com/user-attachments/assets/fa06a8c9-0479-48ac-bda5-d64cac16ee67" />
 <img width="907" height="778" alt="image" src="https://github.com/user-attachments/assets/729e27cc-9408-474b-b0f9-f81c9d1fa499" />
-```
+
 ## RESULT
 Thus the Exploratory Data Analysis on The Given Data Set Was Performed Sucessfully.
 
